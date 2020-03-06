@@ -7,4 +7,5 @@ int main()
    int n2 = sizeof(str2)/sizeof(str2[0]); 
    printf("n1 = %d, n2 = %d", n1, n2); 
    return 0; 
+   // change in master branch
 }  
