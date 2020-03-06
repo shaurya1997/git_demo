@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main() 
-{ 
+{
+hello 
    char str1[] = "GeeksQuiz"; 
    char str2[] = {'G', 'e', 'e', 'k', 's', 'Q', 'u', 'i', 'z'}; 
    int n1 = sizeof(str1)/sizeof(str1[0]); 
